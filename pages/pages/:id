@@ -87,7 +87,6 @@
         <div class="col-md-7 left_pad">
             <h1 id="page_title" class="hidden_phone"></h1>
             <div class="hidden_phone line"></div>
-            <br class="show_phone" />
             <div class="page_content" id="mm_page_content">
             </div>
         </div>
