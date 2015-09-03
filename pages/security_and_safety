@@ -22,6 +22,7 @@
         min-height: 27px !important;
         color: rgb(230, 84, 0) !important;
         letter-spacing: 2px !important;
+        margin-bottom:0;
     }
     .pages_container h3{
         font-family: CircularStd-Book;
