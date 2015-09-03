@@ -422,7 +422,6 @@ h1 {
 }
 .dd_guest a:hover,.dd_guest a:focus{
     background:transparent !important;
-    color:#f6c3a6 !important;
 }
 
 .menu_home:hover, .menu_home:focus{
@@ -668,7 +667,7 @@ h1 {
 }
 
 .side_nav a:hover{
-    color:#f6c3a6 !important;
+    color:#E65400 !important;
     font-weight:bold !important;
 }
 
