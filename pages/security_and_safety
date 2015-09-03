@@ -16,7 +16,7 @@
         font-size:32px;
         letter-spacing: 0;
     }
-    .pages_container h2{
+    .pages_container h2, .pages_container h3{
         font-family: CircularStd-Bold !important;
         font-size: 14px !important;
         min-height: 27px !important;
