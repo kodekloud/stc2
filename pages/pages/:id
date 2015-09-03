@@ -88,6 +88,7 @@
             <div class="hidden_phone line"></div>
             <br class="show_phone" />
             <h1 id="mobile_page_title" class="show_phone" style=" margin-bottom: 20px; "></h1>
+            <div class="hidden_phone line"></div>
             <div class="page_content" id="mm_page_content">
             </div>
         </div>
