@@ -64,7 +64,7 @@
             <img id="side_img" src="http://assets.kodekloud.io/sites/557af89f6e6f64717a000000/304bed60a1b35abe8be1cec63fdb80de/STC Guest Services.png" class="width_100" alt="">  
             <div class="margin_15px show_phone"></div>
             <h1 id="mobile_page_title" class="show_phone" style=" margin-bottom: 20px; "></h1>
-            <div class="hidden_phone line"></div>
+            <div class="show_phone line"></div>
             <div id="pages_side_nav">   
                 <ul class="nav side_nav" >
                     <li><a class="hstc" href="/pages/stc-guest-services">GUEST SERVICES</a></li>
