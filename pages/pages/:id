@@ -62,15 +62,17 @@
     <div class="row">
         <div class="col-md-4">
             <img id="side_img" src="http://assets.kodekloud.io/sites/557af89f6e6f64717a000000/304bed60a1b35abe8be1cec63fdb80de/STC Guest Services.png" class="width_100" alt="">  
-            <div id="pages_side_nav">   
-                <ul class="nav side_nav" >
-                    <li><a class="hstc" href="/pages/stc-guest-services">GUEST SERVICES</a></li>
-                    <li><a class="hstc" href="/pages/stc-gift-cards">GIFT CARD</a></li>
-                    <li><a class="hstc" href="/feedback">SHARE YOUR THOUGHTS</a></li>
-                    <li><a class="hstc" href="/pages/stc-accessibility">ACCESSIBILITY</a></li>
-                    <li><a class="hstc" href="/pages/stc-security-safety-tips" >SECURITY & SAFETY</a></li>
-                </ul>
-                <div class="line"></div>
+            <div id="pages_side_nav">
+                <div>
+                    <ul class="nav side_nav" >
+                        <li><a class="hstc" href="/pages/stc-guest-services">GUEST SERVICES</a></li>
+                        <li><a class="hstc" href="/pages/stc-gift-cards">GIFT CARD</a></li>
+                        <li><a class="hstc" href="/feedback">SHARE YOUR THOUGHTS</a></li>
+                        <li><a class="hstc" href="/pages/stc-accessibility">ACCESSIBILITY</a></li>
+                        <li><a class="hstc" href="/pages/stc-security-safety-tips" >SECURITY & SAFETY</a></li>
+                    </ul>
+                    <div class="line"></div>
+                </div>
             </div>
             <!--<div>-->
             <!--    <h2 class="new_store_subheading">CONTACT SECURITY</h2>-->
