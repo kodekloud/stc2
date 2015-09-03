@@ -87,13 +87,12 @@ h1 {
 
 
 .hst{
-font-family: CircularStd-Bold;
-font-size: 14px;
-height: 27px;
-
-color: rgb(230, 84, 0);
-letter-spacing: 2px;
-text-align: left;
+    font-family: CircularStd-Bold;
+    font-size: 14px;
+    height: 27px;
+    color: rgb(230, 84, 0);
+    letter-spacing: 2px;
+    text-align: left;
 }
 
 .page_inside_div{
