@@ -422,7 +422,7 @@ h1 {
 }
 .dd_guest a:hover,.dd_guest a:focus{
     background:transparent !important;
-    #E65400
+    color:#f6c3a6 !important;
 }
 
 .menu_home:hover, .menu_home:focus{
