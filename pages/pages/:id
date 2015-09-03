@@ -90,6 +90,16 @@
             <div class="show_phone line"></div>
             <div class="page_content" id="mm_page_content">
             </div>
+            <div class="show_phone">
+                <ul class="nav side_nav" >
+                    <li><a class="hstc" href="/pages/stc-guest-services">GUEST SERVICES</a></li>
+                    <li><a class="hstc" href="/pages/stc-gift-cards">GIFT CARD</a></li>
+                    <li><a class="hstc" href="/feedback">SHARE YOUR THOUGHTS</a></li>
+                    <li><a class="hstc" href="/pages/stc-accessibility">ACCESSIBILITY</a></li>
+                    <li><a class="hstc" href="/pages/stc-security-safety-tips" >SECURITY & SAFETY</a></li>
+                </ul>
+                <div class="line"></div>
+            </div>
         </div>
     </div>
 </div>
