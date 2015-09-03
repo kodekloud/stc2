@@ -23,6 +23,7 @@
         color: rgb(230, 84, 0) !important;
         letter-spacing: 2px !important;
         text-transform: uppercase;
+        margin-bottom:0;
     }
     .pages_container h3{
         font-family: CircularStd-Book;
