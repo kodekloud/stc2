@@ -77,7 +77,7 @@ $('#mobile_search_box').on('input', function() {
         renderSearchResultsTemplate('#search_results_mobile_container','#search_results_mobile_template',search_results);
         $('#search_results_mobile').hide();
     }else{
-        var search_results = getSearchResults($('#mobile_search_box').val(),10,100);
+        var search_results = getSearchResults($('#mobile_search_box').val(),99,100);
         $('.search-results-count').html(search_results.summary.count);
         //console.log('--------');
         renderSearchResultsTemplate('#search_results_mobile_container','#search_results_mobile_template',search_results);
@@ -269,7 +269,7 @@ function showSearchResults(){
     if($('#search_input').val().length == 0){
         $('#search_results').hide();
     }else{
-        var search_results = getSearchResults($('#search_input').val(),10,100);
+        var search_results = getSearchResults($('#search_input').val(),99,100);
         $('.search-results-count').html("Total Results : "+search_results.summary.count);
         renderSearchResultsTemplate('#search_results_template','#search_results_items',search_results);
         if (search_results["stores"]){
