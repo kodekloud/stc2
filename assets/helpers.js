@@ -108,7 +108,7 @@ function pinIt(){
     return false;
 }
 
-function check_open_time(d, check_open_time){
+function check_open_time(d, close){
     var time = "";
     var date = new Date();
     var current_time = date.getHours();
