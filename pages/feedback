@@ -28,7 +28,7 @@
             </div>
             <div id="form_div">
                 <h1 class="hidden_phone">Share your thoughts with us</h1>
-                <div class="line hidden_phone"></div>
+                <div class="line"></div>
                 <div class="description">
                     <p>Take a moment to tell us how we’re doing. 
                    Your feedback really matters.
