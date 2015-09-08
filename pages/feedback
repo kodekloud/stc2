@@ -16,7 +16,7 @@
                     <li><a class="hstc" href="/pages/stc-accessibility">ACCESSIBILITY</a></li>
                     <li><a class="hstc" href="/security_and_safety" >SECURITY & SAFETY</a></li>
                 </ul>
-                <div class="hidden_lineline"></div>
+                <div class="hidden_line line"></div>
             </div>
         </div>
         <!--<div class="col-md-1 hidden_phone">-->
