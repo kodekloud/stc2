@@ -113,6 +113,7 @@ function check_open_time(d, close){
     var date = new Date();
     var current_time = date.getHours();
     var open = d.getUTCHours();
+    var clos = close.getUTCHours();
     if (current_time >= open ){
         time = "OPEN NOW";
     }
