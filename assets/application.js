@@ -78,7 +78,7 @@ $('#mobile_search_box').on('input', function() {
         renderSearchResultsTemplate('#search_results_mobile_container','#search_results_mobile_template',search_results);
         $('#search_results_mobile').hide();
     }else{
-        var search_results = getSearchResults($('#mobile_search_box').val(),10,100);
+        var search_results = getSearchResults($('#mobile_search_box').val(),99,100);
         $('.search-results-count').html(search_results.summary.count);
         //console.log('--------');
         renderSearchResultsTemplate('#search_results_mobile_container','#search_results_mobile_template',search_results);
