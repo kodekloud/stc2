@@ -663,7 +663,7 @@ function renderPosts(container, template, collection){
         else{
             val.description_short = val.body;
         }
-        va.description_short = val.description.replace("&amp;", "&")
+        val.description_short = val.description.replace("&amp;", "&")
         val.slug = "trending/" +val.slug;
         var lb = getBlogDataBySlug("stc-lookbook");
         var contest = getBlogDataBySlug("stc-contest");
