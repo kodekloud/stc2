@@ -59,6 +59,10 @@ h1 {
     padding-left: 10px;    
 }
 
+#store_results_header:focus {
+    outline: none;
+}
+
 .hidden_now{
     display:none;
 }
