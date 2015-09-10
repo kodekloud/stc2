@@ -14,7 +14,7 @@
         </div>
         <div class="col-md-3">
         <br class="show_phone" /><br class="show_phone" />
-        <h2 class="new_store_subheading no_margin" id="address">Address</h2>
+        <h2 class="hstc no_margin" id="address">Address</h2>
             <p class="description" style="margin-top:0">
                 
                 300 Borough Drive
