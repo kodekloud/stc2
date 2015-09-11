@@ -67,7 +67,7 @@
             <div class="pages_container" id="pages_container">
                 <script id="pages_template" type="x-tmpl-mustache/text">
                     <a class="pages_inside_title" id="pages_{{slug}}" onclick="javascript:show_pages('{{slug}}')">
-                        <h2>{{title}}</h2>
+                        <h2>{{title}} &nbsp;<i class="fa fa-long-arrow-down"></i> </h2>
                     </a>
                     <div class="page_inside_div" id="pages_{{slug}}_stores">
                     {{{body}}}
