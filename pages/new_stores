@@ -38,7 +38,7 @@
             <!--</div>-->
             <br />
             <p class="description hidden_now" id="no_now_open" >No new opened stores at the moment. Please check back later.</p>
-            <div id="new_store_container" class="custom_mobile">
+            <div id="new_store_container" class="custom_mobile_margin">
                 <script id="new_store_template" type="x-tmpl-mustache/text">
                     <div class="row new_store_box">
                         <div class="col-md-3 new_store_img_div text-center">
