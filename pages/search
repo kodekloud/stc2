@@ -43,7 +43,7 @@
             init_home_hours();
             var params = getRequestParam('query');
             var search_results = getSearchResults(params,10,100);
-            if (search_results.stores.length > 0){
+            if (search_results.stores != undefined && search_results.stores.length > 0){
                 renderGeneral('#search_container_stores','#search_template_stores', search_results.stores);
             }
             else{
