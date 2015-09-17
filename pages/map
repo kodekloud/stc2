@@ -5,6 +5,9 @@
         width:740px;
         margin: 0 auto;
     }
+    .marker a:hover{
+        text-decoration:none;
+    }
     @media only screen and (max-width: 1030px) {
         .demo_1{
             width:600px;
