@@ -5,7 +5,7 @@
         width:740px;
         margin: 0 auto;
     }
-    .marker a:hover{
+    .popup a:hover{
         text-decoration:none;
     }
     @media only screen and (max-width: 1030px) {
