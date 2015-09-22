@@ -12,6 +12,7 @@
         <link rel=”apple-touch-icon-precomposed” href=”http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/apple-touch-icon-precomposed.png”/>
         
         <meta name="msapplication-TileColor" content="#16216A" />
+        <meta name="application-name" content="STC" />
         <meta name="msapplication-square70x70logo" content="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/mstile-70x70.png" />
         
         <meta name="msapplication-square144x144logo" content="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/mstile-144x144.png" />
