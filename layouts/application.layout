@@ -1,5 +1,6 @@
 <html lang="en">
     <head>
+        <link rel='shortcut icon' href='favicon.ico' type='image/x-icon'/ >
         <meta property="og:title" content="{{meta_title}}">
         <meta property="og:description" content="{{meta_description}}">
         <meta charset="utf-8">
