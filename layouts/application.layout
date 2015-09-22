@@ -9,7 +9,7 @@
         
         <link rel="apple-touch-icon" sizes="180x180" href="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/apple-touch-icon-180x180.png"/>
         
-        <link rel=”apple-touch-icon-precomposed” href=”/apple-touch-icon.png”/>
+        <link rel=”apple-touch-icon-precomposed” href=”http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/apple-touch-icon-precomposed.png”/>
         <meta property="og:title" content="{{meta_title}}">
         <meta property="og:description" content="{{meta_description}}">
         <meta charset="utf-8">
