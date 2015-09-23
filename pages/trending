@@ -77,6 +77,8 @@
             var blog_beauty = getBlogDataBySlug('stc-stcdresscode');
             var blog_lifestyle = getBlogDataBySlug('stc-women-s-fashion');
             var blog_mens = getBlogDataBySlug('stc-men-s-style');
+            
+            blog_beauty.posts = blog_beauty.posts.sortBy(function(o){ return new Date(o.publish_date) }).reverse();
             var top_blogs = [];
             top_blogs.push(blog_beauty);
             top_blogs.push(blog_lifestyle);
