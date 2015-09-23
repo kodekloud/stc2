@@ -1,27 +1,27 @@
 <html lang="en">
     <head>
         <link rel='shortcut icon' href='http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/favicon.ico' type='image/x-icon' />
-        <link rel="apple-touch-icon" sizes="72x72" href="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/apple-touch-icon-72x72.png" />
+        <!--<link rel="apple-touch-icon" sizes="72x72" href="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/apple-touch-icon-72x72.png" />-->
         
-        <link rel="apple-touch-icon" sizes="114x114" href="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/apple-touch-icon-114x114.png" />
+        <!--<link rel="apple-touch-icon" sizes="114x114" href="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/apple-touch-icon-114x114.png" />-->
         
-        <link rel="apple-touch-icon" sizes="144x144" href="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/apple-touch-icon-144x144.png" />
+        <!--<link rel="apple-touch-icon" sizes="144x144" href="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/apple-touch-icon-144x144.png" />-->
         
-        <link rel="apple-touch-icon" sizes="180x180" href="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/apple-touch-icon-180x180.png" />
+        <!--<link rel="apple-touch-icon" sizes="180x180" href="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/apple-touch-icon-180x180.png" />-->
 
-        <link rel="apple-touch-icon-precomposed" href="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/apple-touch-icon-precomposed.png" />
+        <!--<link rel="apple-touch-icon-precomposed" href="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/apple-touch-icon-precomposed.png" />-->
         
-        <meta name="msapplication-TileColor" content="#16216A" />
-        <meta name="application-name" content="STC" />
-        <meta name="msapplication-square70x70logo" content="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/mstile-70x70.png" />
+        <!--<meta name="msapplication-TileColor" content="#16216A" />-->
+        <!--<meta name="application-name" content="STC" />-->
+        <!--<meta name="msapplication-square70x70logo" content="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/mstile-70x70.png" />-->
         
-        <meta name="msapplication-square144x144logo" content="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/mstile-144x144.png" />
+        <!--<meta name="msapplication-square144x144logo" content="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/mstile-144x144.png" />-->
         
-        <meta name="msapplication-square150x150logo" content="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/mstile-150x150.png" />
+        <!--<meta name="msapplication-square150x150logo" content="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/mstile-150x150.png" />-->
         
-        <meta name="msapplication-wide310x150logo" content="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/mstile-310x150.png" />
+        <!--<meta name="msapplication-wide310x150logo" content="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/mstile-310x150.png" />-->
         
-        <meta name="msapplication-square310x310logo" content="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/mstile-310x310.png" />
+        <!--<meta name="msapplication-square310x310logo" content="http://assets.kodekloud.io/sites/55e891ec6e6f644697010000/eb553b86d66ba0c8aa22f4cae34fabbb/mstile-310x310.png" />-->
 
 
 
